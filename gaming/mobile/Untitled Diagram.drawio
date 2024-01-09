@@ -1,9 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2024-01-09T00:50:32.203Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.17" etag="qJxdPPeeW-JNby9Jyl_w" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-09T05:56:42.601Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="6cJ_fJVQ03_TIZrhY1bo" version="22.1.17" type="github">
   <diagram name="Page-1" id="J3cLCfsHKJvEifDIznW6">
-    <mxGraphModel>
+    <mxGraphModel dx="2074" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ZO4cAVvjAon7DXJl4Z8I-2" value="&lt;h1&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;4 Starter classes&lt;br&gt;* Async&lt;br&gt;* focus on resource collection&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="110" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZO4cAVvjAon7DXJl4Z8I-3" value="&lt;h1 style=&quot;font-size: 19px;&quot;&gt;&lt;span data-darkreader-inline-bgcolor=&quot;&quot; style=&quot;background-color: initial; --darkreader-inline-bgcolor: initial;&quot;&gt;Warrior&lt;br&gt;&lt;/span&gt;* Mapping&lt;br&gt;* Hunting, target shooting&lt;br&gt;* Dungeon Crawl&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="250" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZO4cAVvjAon7DXJl4Z8I-4" value="&lt;h1&gt;Engineer&lt;/h1&gt;&lt;p&gt;Building, tetris&lt;br&gt;Wiring (Fantasy)&lt;br&gt;Maze Solving&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="240" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZO4cAVvjAon7DXJl4Z8I-5" value="&lt;h1&gt;Farmer&lt;/h1&gt;&lt;p&gt;Planting, Harvesting&lt;br&gt;Fishing&lt;br&gt;Foraging (Wheres waldo)&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="410" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZO4cAVvjAon7DXJl4Z8I-7" value="&lt;h1&gt;Mage&lt;/h1&gt;&lt;p&gt;Research (trivia)&lt;br&gt;Potion Prep&lt;br&gt;Mana channeling (freq match)&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="390" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZO4cAVvjAon7DXJl4Z8I-8" value="&lt;h1&gt;Shared Community Tasks&lt;/h1&gt;&lt;p&gt;* building&lt;br&gt;* road create&lt;br&gt;* tax collect&lt;br&gt;* Clean&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="600" width="190" height="180" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
